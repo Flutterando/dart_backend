@@ -81,6 +81,8 @@ Essa ferramenta é totalmente escalável por outros packages, ou seja, uma nova 
 
 O Shelf sozinho apenas "escuta" as conexões, precisaremos de outros packages para a construção de nossa api.
 
+- [Vamos falar de Dart no backend (Text)](https://blog.flutterando.com.br/vamos-falar-de-dart-no-backend-3552505f332)
+
 ## Rotas
 
 Existem 2 packages principais que trabalham com rotas.
